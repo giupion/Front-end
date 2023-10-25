@@ -1,0 +1,73 @@
+
+.container{display:block;
+    margin:0 auto;
+    width:50%;
+    align-items: center;
+}      
+
+*{font-family: 'Playpen Sans', cursive;
+    font-family: 'Roboto Slab', serif;}
+
+
+
+  
+
+   figure p{ width:100%;
+    margin:0 auto;}
+
+
+
+    #featured{border-left:1px solid rgb(255,255,172)}
+figcaption p{color:red;}
+
+figure>figcaption{color:grey;
+    padding-top: 20px;
+}
+
+figure :nth-child(2){text-align: center;}
+
+section hr{border: 1px solid lightskyblue ;}
+
+
+
+figure :nth-child(3){text-align: center;}
+header p{border-top:1px solid #ffd977;
+    background-color: rgb(255,255,172);}
+
+
+    #box{
+        box-shadow: 5px  5px 5px grey,
+        -10px -10px 5px grey,
+         10px -10px 5px grey,
+        -10px  10px 5px grey;
+
+        border-radius: 15px;
+      }
+      figcaption{padding-bottom:20px;}
+
+      header img {
+        width: 200px;
+    }
+
+    article figure img {
+        width: 100%;
+    }
+
+      
+
+
+
+   
+   
+               
+
+        
+
+       
+
+        
+
+
+
+
+
