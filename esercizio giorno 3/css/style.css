@@ -1,0 +1,83 @@
+figure p{
+    padding-top:20px;
+}
+
+*{text-align: center;
+    align-items: flex-start;
+    margin:0 auto;
+    
+    }
+
+figure p{color:red;}
+
+header>figure p{color:black !important}
+
+figure>figcaption{color:grey;}
+
+div hr{ display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid yellow;
+    margin: 1em 0;
+    padding: 0;}
+article hr{display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid lightblue;
+    margin: 1em 0;
+    padding: 0;}
+
+    figure img{
+        box-shadow: 10px  10px 5px grey,
+        -10px -10px 5px grey,
+         10px -10px 5px grey,
+        -10px  10px 5px grey;
+      }
+
+figure{ 
+    padding-bottom:50px;}
+
+    img{border-radius: 15px;}
+
+h1,h2{padding-bottom:30px;}
+
+p,h3{padding-bottom:20px;}
+
+h3{padding-top:20px;}
+
+li{text-align: center;
+    align-items: center;
+    padding-bottom:10px;
+    list-style-type:none;
+    }
+
+    ul{
+        padding-bottom:20px;}
+
+    .Ingredients{align-items: center;
+        text-align:center;
+        
+        margin:0 auto;}
+
+        .ingredients{text-align:center;}
+
+
+        a{color:blue}
+
+        .container{width: 50%;
+            margin: auto;}
+            main{text-align: center;}
+
+            figcaption{padding-top:20px;
+                padding-bottom:20px;}
+
+        
+
+       
+
+        
+
+
+
+
+
