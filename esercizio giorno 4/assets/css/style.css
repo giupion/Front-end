@@ -110,6 +110,8 @@ padding:30px;
 background-color: grey;
 color:white;}
 
+aside a{color:lightblue;}
+
 /* FOOTER */
 .bloccofooter{margin:0 auto;
     text-align: center;
