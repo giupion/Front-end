@@ -1,8 +1,8 @@
 
-.container{display:block;
-    margin:0 auto;
+.container{
+    margin: auto;
     width:50%;
-    align-items: center;
+   
 }      
 
 *{font-family: 'Playpen Sans', cursive;
@@ -12,13 +12,16 @@
 
   
 
-   figure p{ width:100%;
-    margin:0 auto;}
+   figure p{
+    margin:auto;}
+    figure{margin:auto;}
 
 
 
     #featured{border-left:1px solid rgb(255,255,172)}
-figcaption p{color:red;}
+figcaption p{color:red;
+text-align: left;
+border-left:1px solid red;}
 
 figure>figcaption{color:grey;
     padding-top: 20px;
@@ -47,14 +50,33 @@ header p{border-top:1px solid #ffd977;
 
       header img {
         width: 200px;
+        align-items: center;
     }
 
     article figure img {
+        
         width: 100%;
     }
+    article figure figcaption {
+        text-align: center;
+    }
 
+    article h1 {
+        text-align: center;
+    }
       
-
+    header {
+        text-align: center;
+    }
+    
+    header p {
+        background-color: rgb(255, 255, 172);
+        width: 100%;
+    }
+    
+    header img {
+        width: 200px;
+    }
 
 
    

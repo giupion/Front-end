@@ -1,0 +1,110 @@
+/* IMPOSTAZIONI GENERALI */
+
+*,html{font-family: 'Playpen Sans', cursive;
+    font-family: 'Roboto Slab', serif;
+    margin:0 auto;
+    text-align: center;
+}
+
+
+
+
+  
+
+/* HEADER */
+
+.logo{margin:0 auto;
+text-align: center;
+margin:30px;
+padding:30px;
+background-color: blue;
+color:white;
+}
+
+ul{margin:0 auto;
+padding-inline-start:0;}
+
+nav li,a
+{
+    list-style-type: none;
+    color:white;
+    text-decoration:none;
+    margin:10px;
+
+}
+
+div p{
+    
+    padding-top: 10px;
+padding-bottom:10px;}
+
+strong{color:blueviolet}
+
+
+/* MAIN */
+main {font-family: 'Playpen Sans', cursive;
+    font-family: 'Roboto Slab', serif;
+border:1px solid black;
+margin:30px;
+
+}
+
+
+
+
+/* ELEMENTI NEL MAIN - ARTICLE */
+h1,p{margin:15px;}
+li{margin:30px;}
+
+
+ol{padding-inline-start: 0;}
+
+.video{border-radius: 15px;
+text-align: center;
+margin-top:10px;
+margin-bottom:15px;}
+
+.allinea{ margin:0 auto;
+    text-align: center;}
+
+#tool a {color:blue;}
+    
+/* TABELLE */
+.testatabella{background-color: blue;}
+.corpotabella {background-color: lightblue;}
+
+/* FORM */
+.novitaform{
+    margin:0 auto;
+text-align: center;
+margin:30px;
+
+padding:30px;
+background-color: grey;
+color:white;}
+
+h2{text-align: center;}
+
+
+/* ELEMENTI NELL' ASIDE */
+.novitaform{
+    margin:0 auto;
+text-align: center;
+margin:30px;
+
+padding:30px;
+background-color: grey;
+color:white;}
+
+/* FOOTER */
+.bloccofooter{margin:0 auto;
+    text-align: center;
+    margin:30px;
+    padding:15px 15px 30px 15px;
+    
+    background-color: rgb(9, 9, 123);
+    color:white;}
+
+    address a{color:rgb(233, 124, 233);}
+
+    
